@@ -1,6 +1,6 @@
 # Consumer Financial Complaints Intelligence
 ## View Interactive Dashboard Here: https://lnkd.in/de4ZdyDV
-**Focus:** Regulatory Compliance | Product Performance | Response Efficiency  
+**Focus:** Regulatory Compliance | Product Performance | Response Efficiency
 **Tools Used:** Power BI | DAX | Data Modeling | Interactive Dashboards
 
 ## Objective  
